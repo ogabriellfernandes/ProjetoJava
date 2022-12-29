@@ -1,0 +1,7 @@
+001|Teclado|12.0|1|Dell
+002|Mouse|7.0|1|accer
+003|Monitor|321.0|1|LGe1941
+004|SSD|330.0|3|Kingston
+005|Notebook|3200.0|3|AllienWare
+006|Memória RAM|350.0|3|Kingston
+007|Celular|1200.0|1|Samsung
